@@ -1,7 +1,7 @@
-def q1 ():
+def q1():
   #Write Assignment code here
   #Remember your code must be indented once
-  print ("Hello world")
+  print ("Hello World")
 
 def q2():
   #Write Assignment code here
@@ -14,9 +14,12 @@ def q2():
 
 def q3():
   #Write Assignment code here
-  print (" HELP ME!")
+  print (" Help Me!")
+
+
 def q4():
   #Write Assignment code here
+  print ("3 X 3 = 9")
 
 #Do not alter anything after this line
 q1()
